@@ -9,44 +9,27 @@
 </h3>
 <h2>👨‍💻 CERTIFICATIONS:</h2>
 <table>
-
   <tr>
-
     <td align="center" width="33%">
-
       <b>Software Engineering</b><br><br>
-
-      <img src="se.jpeg" alt="Software Engineering Certificate" width="100%"/><br><br>
-
+      <img src="se.jpeg" alt="Software Engineering Certificate" width="220"/><br><br>
       <small><a href="https://github.com/joshmadakor1/Algorithms-Practice">Practicing DS & Algos in Python 🐍</a></small>
-
     </td>
-
     <td align="center" width="33%">
-
       <b>Virtual Assistant</b><br><br>
-
-      <img src="Va.jpeg" alt="Virtual Assistant Certificate" width="100%"/>
-
+      <img src="Va.jpeg" alt="Virtual Assistant Certificate" width="220"/>
     </td>
-
     <td align="center" width="33%">
-
       <b>Professional Foundations</b><br><br>
-
-      <img src="pf.jpeg" alt="Professional Foundations Certificate" width="100%"/>
-
+      <img src="pf.jpeg" alt="Professional Foundations Certificate" width="220"/>
     </td>
-
   </tr>
-
 </table>
   
 
+<h2>📺 My Personal Blog</h2>
 
-<h2>📺 My Pitch</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Stoies, Insights, Growth and Real Life](https://gracehub-neon.vercel.app)
 
 
 <h2> 🤳 Connect with me:</h2>
