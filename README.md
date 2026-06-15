@@ -1,7 +1,7 @@
 <h1>Hi, I'm Grace Oyiza!</h1>
 <h3> 
-  <a href="https://github.com/GraceOyiza1">Virtual Assistant</a>, 
-  <a href="https://www.linkedin.com/in/grace-gift">Junior Software Developer</a> and 
+  <a href="https://graceoyiza.vercel.app">Junior Software Developer</a>, 
+  <a href="https://www.linkedin.com/in/grace-gift">Virtual Assistant</a> and 
   <a href="https://sites.google.com/view/grace-oyiza">Writer</a>
 </h3>
 <h2>👨‍💻 CERTIFICATIONS:</h2>
