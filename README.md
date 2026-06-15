@@ -1,6 +1,3 @@
-<img width="1280" height="720" alt="pf" src="https://github.com/user-attachments/assets/ceeb08cb-f4d7-4615-9678-a4094a29ac42" />
-<img width="1280" height="720" alt="va" src="https://github.com/user-attachments/assets/6973f3f6-6f76-48ab-90bd-29d044f8d5a4" />
-<img width="1280" height="720" alt="se" src="https://github.com/user-attachments/assets/1bcc6891-3234-454e-8df3-5db06c9b0330" />
 <h1>Hi, I'm Grace Oyiza! 👋</h1>
 
 <h3>
@@ -9,7 +6,7 @@
   <a href="https://sites.google.com/view/grace-oyiza">Technical Writer</a>
 </h3>
 
-<p>I am a Tech-VA hybrid specializing in building clean, responsive user interfaces and delivering high-end operational support. Passionate about technical storytelling, clean UI architecture, and creating engaging digital experiences.</p>
+<p>I am a Tech-VA hybrid specializing in building clean, responsive user interfaces with React.js and Tailwind CSS, while delivering high-end operational and administrative support. I love combining technical development with digital storytelling to build engaging web experiences.</p>
 
 ---
 
@@ -20,21 +17,21 @@
 
 ---
 
-## 👨‍💻 CERTIFICATIONS
+## 📑 CERTIFICATIONS
 
 <table>
   <tr>
     <td align="center" width="33%">
       <b>Software Engineering</b><br><br>
-      <img src="se.jpeg" alt="Software Engineering Certificate" width="220"/>
+      <img src="https://github.com/user-attachments/assets/bba5de2c-6375-44ac-86ac-04453acf39cd" alt="Software Engineering Certificate" width="220"/>
     </td>
     <td align="center" width="33%">
       <b>Virtual Assistant</b><br><br>
-      <img src="Va.jpeg" alt="Virtual Assistant Certificate" width="220"/>
+      <img src="https://github.com/user-attachments/assets/5ccd4073-197d-4d55-8c98-a0a2f32bebf0" alt="Virtual Assistant Certificate" width="220"/>
     </td>
     <td align="center" width="33%">
       <b>Professional Foundations</b><br><br>
-      <img src="pf.jpeg" alt="Professional Foundations Certificate" width="220"/>
+      <img src="https://github.com/user-attachments/assets/ef61614f-0415-41af-bd83-998eef57b606" alt="Professional Foundations Certificate" width="220"/>
     </td>
   </tr>
 </table>
@@ -43,7 +40,7 @@
 
 ## 📺 My Personal Blog
 
-* [Stories, Insights, Growth and Real Life](https://gracehub-neon.vercel.app)
+* [Stories, Insights, Growth and Real Life (GraceHub)](https://gracehub-neon.vercel.app)
 
 ---
 
@@ -64,14 +61,10 @@
 📧 **Email:** [graceoyiza.dev@gmail.com](mailto:graceoyiza.dev@gmail.com)
 
 <!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... an ecommerce app
+## ⚡ About Me
+- 🔭 I’m currently working on ... Errand (A grocery and market delivery platform)
 - 🌱 I’m currently learning ... PHP and Laravel
-- 👯 I’m looking to collaborate on ... Front-end roles 
-- 🤔 I’m looking for help with ... Front-end roles and website development
-- 💬 Ask me about ... anything
-- 📫 How to reach me: ... on LinkedIn https://linkedin.com/in/grace-gift
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... I love Reading, Coding, and experiencing new things 
+- 👯 I’m looking to collaborate on ... Front-End Developer roles
+- 🤔 I’m looking for help with ... Web development projects
+- ⚡ Fun fact ... I love reading, coding, and experiencing new things!
 -->
