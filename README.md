@@ -1,3 +1,6 @@
+<img width="1280" height="720" alt="pf" src="https://github.com/user-attachments/assets/ceeb08cb-f4d7-4615-9678-a4094a29ac42" />
+<img width="1280" height="720" alt="va" src="https://github.com/user-attachments/assets/6973f3f6-6f76-48ab-90bd-29d044f8d5a4" />
+<img width="1280" height="720" alt="se" src="https://github.com/user-attachments/assets/1bcc6891-3234-454e-8df3-5db06c9b0330" />
 <h1>Hi, I'm Grace Oyiza! 👋</h1>
 
 <h3>
